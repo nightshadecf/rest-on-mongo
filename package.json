@@ -1,6 +1,6 @@
 {
   "name": "rest-on-mongo-extra",
-  "version": "2.5",
+  "version": "2.5.1",
   "description": "A simple REST API layer over MongoDB",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,7 @@
   "homepage": "https://github.com/nightshadecf/rest-on-mongo",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
     "JSONStream": "^1.3.5",
     "body-parser": "^1.19.0",
     "bson": "^4.0.4",
