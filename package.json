@@ -1,6 +1,6 @@
 {
-  "name": "rest-on-mongo",
-  "version": "2.4.1",
+  "name": "rest-on-mongo-extra",
+  "version": "2.4.2",
   "description": "A simple REST API layer over MongoDB",
   "main": "index.js",
   "scripts": {
